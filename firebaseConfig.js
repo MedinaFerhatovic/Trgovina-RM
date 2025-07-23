@@ -6,12 +6,12 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCxX_r_FTLDIKx1gZBs7gAq-Rs5KnyfRcQ",
+  apiKey: "your_api_key",
   authDomain: "trgovinarm-a948a.firebaseapp.com",
-  projectId: "trgovinarm-a948a",
+  projectId: "project_id",
   storageBucket: "trgovinarm-a948a.firebasestorage.app",
-  messagingSenderId: "247090906476",
-  appId: "1:247090906476:web:43ba257b7a7d76b1295f49"
+  messagingSenderId: "id",
+  appId: "appid"
 };
 
 // Initialize Firebase
