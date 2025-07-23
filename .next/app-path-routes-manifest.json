@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/admin/page": "/admin",
+  "/admin/orders/page": "/admin/orders",
+  "/page": "/",
+  "/politika/page": "/politika",
+  "/cart/page": "/cart",
+  "/uslovi/page": "/uslovi"
+}

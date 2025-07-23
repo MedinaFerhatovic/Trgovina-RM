@@ -1,0 +1,25 @@
+{
+  "hosting": {
+    "site": "rm-trgovina",
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "*/admin*",
+        "destination": "/admin.html"
+      },
+      {
+        "source": "*/admin/orders*",
+        "destination": "/admin/orders.html"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
